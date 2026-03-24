@@ -24,8 +24,6 @@ public class AnilKumar {
 
     String[] learning = {"System Design", "Microservices", "Full Stack Dev"};
 
-    String challenge  = "🔥 304 Days of DSA Challenge — Active";
-
     String ask_me_about() {
         return "Backend Dev • DSA • APIs • Database Design";
     }
