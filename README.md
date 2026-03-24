@@ -183,11 +183,7 @@ Secure user auth system with JWT, session management & role-based access.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
-## 🐍 Contribution Snake
 
-<div align="center">
-
-![Snake animation](https://github.com/Anilllllllll/Anilllllllll/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 </div>
