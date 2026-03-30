@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Anil%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Laravel&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
 
-### 💡 *"Code is not just syntax — it's the art of solving real-world problems."*
+### 💡 *"Code is not just syntax — it's the art of solving real-world problems."* .
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Backend+Developer+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+PHP+%7C+Laravel;304+Days+DSA+Challenge+%F0%9F%94%A5;Building+Scalable+REST+APIs;Learning+System+Design+%26+Microservices)](https://git.io/typing-svg)
 
